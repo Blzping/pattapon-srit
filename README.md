@@ -1,4 +1,5 @@
-# Personal Web Portfolio - Pattapon Sritaveesinsup
+# Personal Web Portfolio - Pattapon Sritaveesinthrap
+
 เว็บไซต์ส่วนตัวแบบสแตติก (Static Website) ที่พัฒนาขึ้นเพื่อรวบรวมประวัติการศึกษา ทักษะทางเทคนิค ผลงานที่ผ่านมา และการมีส่วนร่วมในกิจกรรมต่าง ๆ
 
 ## 🗂 โครงสร้างไฟล์ในโปรเจกต์ (File Structure)
